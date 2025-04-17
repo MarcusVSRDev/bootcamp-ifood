@@ -3,7 +3,7 @@
 Bem-vindo ao meu repositório de estudos do Bootcamp de Ciência de Dados do iFood, uma jornada imersiva em análise de dados, machine learning e estatística aplicada. Aqui, você encontrará:
 
 🚀 Conteúdo Abordado
-  Fundamentos de Python para Dados (Pandas, NumPy, Matplotlib/Seaborn)
+  Fundamentos de Python para Dados
   
   Análise Exploratória de Dados (EDA) e pré-processamento
   
